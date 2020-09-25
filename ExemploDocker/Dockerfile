@@ -7,7 +7,7 @@ EXPOSE 44398
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
-COPY ["ExemploDocker.csproj", "ExemploDocker/"]
+COPY ["ExemploDocker/ExemploDocker.csproj", "ExemploDocker/"]
 RUN dotnet restore "ExemploDocker.csproj"
 COPY . .
 WORKDIR "/src/ExemploDocker"
