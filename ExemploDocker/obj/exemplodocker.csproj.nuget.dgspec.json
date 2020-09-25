@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\DockerWebApi\\ExemploDocker\\ExemploDocker\\exemplodocker.csproj": {}
+    "C:\\Users\\User\\Desktop\\DockerWebApi\\ExemploDocker\\ExemploDocker\\ExemploDocker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\DockerWebApi\\ExemploDocker\\ExemploDocker\\exemplodocker.csproj": {
+    "C:\\Users\\User\\Desktop\\DockerWebApi\\ExemploDocker\\ExemploDocker\\ExemploDocker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\DockerWebApi\\ExemploDocker\\ExemploDocker\\exemplodocker.csproj",
-        "projectName": "exemplodocker",
-        "projectPath": "C:\\Users\\User\\Desktop\\DockerWebApi\\ExemploDocker\\ExemploDocker\\exemplodocker.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\DockerWebApi\\ExemploDocker\\ExemploDocker\\ExemploDocker.csproj",
+        "projectName": "ExemploDocker",
+        "projectPath": "C:\\Users\\User\\Desktop\\DockerWebApi\\ExemploDocker\\ExemploDocker\\ExemploDocker.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Desktop\\DockerWebApi\\ExemploDocker\\ExemploDocker\\obj\\",
         "projectStyle": "PackageReference",
